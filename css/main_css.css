@@ -78,7 +78,7 @@ nav ul li {
 nav ul li a{
     text-decoration: none;
 }
-nav ul li a:link a:visited{
+nav ul li a:link, nav ul li a:visited{
     color: blue;
     font-weight: bold;
 }
