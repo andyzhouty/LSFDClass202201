@@ -69,11 +69,12 @@ nav ul{
     background-color: rgb(208, 250, 246);
     margin: 10px 10px 0px 10px;
     list-style-type: none;
-    padding: 0px 0px 5px 0px;
+    padding: 0px;
 }
 nav ul li {
     display: inline;
     padding: 0px 10px 0px 10px;
+    border-right: thin dotted black;
 }
 nav ul li a{
     text-decoration: none;
