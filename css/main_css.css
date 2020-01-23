@@ -52,7 +52,6 @@ a#classmates:hover {
 }
 article#main_page {
     text-align: center;
-    font-family: serif;
     padding: 10px 30px 100px 30px;
     margin: 10px 30px 10px 300px;
     line-height: 40px;
@@ -60,6 +59,7 @@ article#main_page {
     display: block;
 }
 article#main_page header{
+    font-family: "Segoe UI";
     color: red;
     font-weight: bold;
     font-size: 2.0em;
