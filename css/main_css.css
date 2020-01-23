@@ -8,15 +8,13 @@ body {
     padding: 0px;
 }
 footer {
+    border-radius: 1px;
+    background-color: rgba(255, 255, 255, 0.7);
     color: #202020;
     font-size: 15px;
     bottom: 3%;
     right: 3px;
     position: fixed;
-}
-footer#location {
-    border-radius: 1px;
-    background-color: rgba(255, 255, 255, 0.61);
 }
 h1 {
     text-align: center;
