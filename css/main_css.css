@@ -13,7 +13,10 @@ footer {
     bottom: 3%;
     right: 3px;
     position: fixed;
-
+}
+footer#location {
+    background: #000;
+    color: #fff;
 }
 h1 {
     text-align: center;
