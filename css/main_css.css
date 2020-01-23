@@ -54,8 +54,8 @@ a#classmates {
 a#classmates:hover {
     background-color: #73d8d6;
 }
-article#main_page {
-    text-align: center;
+article#main_page{
+    text-align: left;
     padding: 10px 30px 100px 30px;
     margin: 10px 30px 10px 300px;
     line-height: 40px;
@@ -63,11 +63,15 @@ article#main_page {
     display: block;
 }
 article#main_page header{
+    text-align: center;
     font-family: "Segoe UI";
     color: red;
     font-weight: bold;
     font-size: 2.0em;
     line-height: 65px;
+}
+article#main_page div::first-line{
+    text-indent: 2em;
 }
 nav ul{
     background-color: rgb(208, 250, 246);
