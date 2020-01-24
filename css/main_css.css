@@ -62,6 +62,7 @@ article#main_page{
     line-height: 40px;
     font-size: 1.2em;
     display: block;
+    text-indent: 2em;
 }
 article#main_page header{
     text-align: center;
@@ -70,9 +71,6 @@ article#main_page header{
     font-weight: bold;
     font-size: 2.0em;
     line-height: 65px;
-}
-article#main_page div::first-line{
-    text-indent: 2em;
 }
 nav ul{
     background-color: rgb(208, 250, 246);
