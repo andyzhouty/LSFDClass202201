@@ -6,7 +6,7 @@ function add_nav() {
             <li><a href="https://z-t-y.github.io/LSFDClass202201/classmates.html">
                     班级同学
                 </a></li>
-            <li><a href="https://z-t-y.github.io/LSFDClass202201/our_mv.html"
+            <li><a href="https://z-t-y.github.io/LSFDClass202201/our_mv.html">
                 我们的MV
             </a></li>
             <li><a href="https://z-t-y.github.io/LSFDClass202201/wishes.html">
