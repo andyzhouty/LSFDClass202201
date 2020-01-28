@@ -24,3 +24,6 @@ Email: AndyForever0108@outlook.com
 
 ## 致谢
 202201班班刊编辑全体人员
+
+## BUGS
+视频只能通过降低清晰度来加快加载
