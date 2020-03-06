@@ -30,7 +30,7 @@ h1#banji {
     text-align: right;
     margin: 0px 0px 0px 0px;
 }
-h1#2020HereWeCome {
+h1.NoneBorderBottom {
     border-bottom: none;
 }
 table{
